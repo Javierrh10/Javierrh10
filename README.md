@@ -35,7 +35,9 @@ I approach programming with a **gamer mindset**: analyze, iterate, and improve.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Javierrh10&theme=github-dark&hide_border=true" />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Javierrh10&theme=github_dark"
+  />
 </p>
 
 <p align="center">
