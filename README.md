@@ -35,11 +35,11 @@ I approach programming with a **gamer mindset**: analyze, iterate, and improve.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javierrh10&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Javierrh10&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javierrh10&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javierrh10&theme=github-compact&hide_border=true" />
 </p>
 
 ---
