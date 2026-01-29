@@ -47,7 +47,7 @@ I approach programming with a **gamer mindset**: analyze, iterate, and improve.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI">
+  <a href="https://www.linkedin.com/in/javier-raposo-huelva-89289a3a0">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=2ED573"/>
   </a>
 </p>
