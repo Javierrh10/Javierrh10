@@ -20,14 +20,13 @@ I approach programming with a **gamer mindset**: analyze, iterate, and improve.
 - 💻 Focused on learning clean and efficient code
 - 🎮 Competitive gaming background
 - 🛠️ Hands-on learner, learning by building
-- 🖨️ 3D printing enthusiast (Anet A8)
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,html,css,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,laravel,js,html,css,git,github&theme=dark" />
 </p>
 
 ---
